@@ -12,7 +12,7 @@ API
 ### TODO
 
 #### ckpt 1
-+ [ ] Basic API
++ [x] Basic API
 + [ ] Movie Model
 + [ ] User Model
 + [ ] Implement Session
