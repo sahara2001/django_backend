@@ -24,6 +24,8 @@ API
 First create a new python environment
 
 Intall required packages using:
+pip install -r requirements.txt
 
-Running server with command:
+Running server with command: 
+python manage.py runserver
 
